@@ -1,0 +1,29 @@
+body{
+    background-image: url(imageee.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+H1{
+    color: aqua;
+}
+.button{
+    width: 75px;
+    height: 30px;
+}
+.button:hover{
+    transform: scale(1.2);
+    background-color:rgb(6, 194, 6);
+    color: black;
+}
+ 
+  footer {
+    margin-top: auto;  
+    background-color: rgb(37, 37, 37); 
+    color: white; 
+    padding: 20px;
+  }
+  
+  main {
+    flex: 1; 
+  }
+  
